@@ -5,6 +5,4 @@ setup(name='json-navigator',
       description='Navigation through json file',
       author='Nadia Zaiachkovska',
       author_email='mninifu@gmail.com',
-      url='https://www.python.org/sigs/distutils-sig/',
-      packages=['distutils', 'distutils.command'],
      )
